@@ -1,2 +1,2 @@
 # OpenPose
-Plaayground with the openpose library
+Playground with the openpose library
